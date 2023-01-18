@@ -20,3 +20,5 @@ else
 {
     Console.WriteLine("Wrong name or age! Please try again:")
 }
+
+Console.ReadKey();
