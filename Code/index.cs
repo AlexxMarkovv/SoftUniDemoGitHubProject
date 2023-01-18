@@ -14,7 +14,7 @@ while (age != 30)
 
 if (name == "Alex" && age == 30)
 {
-    Console.WriteLine("Your name is Alex and your age is 30!");
+    Console.WriteLine("Wlcome, Alex");
 }
 else
 {
