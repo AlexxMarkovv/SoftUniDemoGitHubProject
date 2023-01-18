@@ -6,3 +6,14 @@ while (true)
         break;
     }
 }
+
+while (age != 30)
+{
+    int age = int.Parse(Console.RwadLine());
+}
+
+if (name == "Alex" && age == 30)
+{
+    Console.WriteLine("Your name is Alex and your age is 30!");
+}
+    
