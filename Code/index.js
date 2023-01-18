@@ -9,3 +9,7 @@ class Dog{
     breed;
 }
 
+class Bird{
+    breed;
+    color;
+}
